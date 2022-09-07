@@ -1,0 +1,1 @@
+out = operator(0, 3)
